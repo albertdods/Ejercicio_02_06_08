@@ -7,6 +7,7 @@ public class Principal {
 		System.out.println("Comienzo de programa dificil");
 		System.out.println("Sigo de programa dificil");
 		System.out.println("Añado dificultades de programa dificil");
+		System.out.println("VErsion github");
 	}
 
 }
