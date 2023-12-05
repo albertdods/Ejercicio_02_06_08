@@ -16,7 +16,7 @@ public class TestLista {
 		nuevaLista.rellenarListas();
 		//imprimir listas
 		nuevaLista.imprimirListas();
-		//prueba enviar desde remoto a local
+		//prueba enviar desde remoto a local 2
 
 	}
 
